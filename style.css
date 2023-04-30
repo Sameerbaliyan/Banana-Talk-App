@@ -1,0 +1,66 @@
+.talk{
+    background-color: yellow;
+    text-align: center;
+    font-style: italic;
+    height: 50px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+textarea{
+   margin-top: 5%;
+   margin-left: 15%;
+   width: 70%;
+   height: 100px;
+   font-style: italic;
+    font-size: 20px;
+    padding: 1rem;
+}
+button{
+   margin-left: 15%;
+   width: 20%;
+   height: 50px;
+   margin-top: 1%;
+   background: yellow;
+   color: black;
+   border: 3px solid yellow;
+   font-style: italic;
+   font-size: 18px;
+   font-weight: bold;
+   cursor: pointer;
+}
+img{
+    width: 3%;
+    height: 20px;
+    margin-top: 3%;
+}
+.out{
+  margin-left: 15%;
+  font-size: 17px;
+  font-style: italic;
+  font-weight: bold;
+}
+nav{
+    margin-left: 10%;
+}
+#output{
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+    margin-left: 15%;
+    width: 71%;
+    height: 70px;
+    margin-top: 2px;
+    font-style: italic;
+    font-size: 20px;
+}
+.ab{
+    background: yellow;
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 200;
+}
